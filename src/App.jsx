@@ -5,6 +5,7 @@ import Header from './components/Header'
 import Question from './components/Question'
 import Results from './components/Results'
 import UserForm from './components/UserForm'
+import Footer from './components/Footer'
 import { Routes, Route } from 'react-router-dom';
 
 function App() {
