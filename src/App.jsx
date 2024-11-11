@@ -148,7 +148,8 @@ function App() {
             }
           />
         </Routes>
-      </UserProvider>
+      <Footer />
+    </UserProvider>
   )
 }
 
